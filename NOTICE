@@ -1,0 +1,2 @@
+Design inspired by wz1119/Codex-Minecraft-Gameplay (Apache-2.0), especially its bounded Win32 input, target-window guarding, screenshot observation, and cleanup philosophy.
+This refactor is a newly generated generic Windows computer-use implementation rather than a verbatim copy of the upstream runtime.
